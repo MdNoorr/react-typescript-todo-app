@@ -7,8 +7,8 @@ import TodoListItems from "./Components/TodoListItems";
 import { Todo, ToggleTodo, AddTodo } from "./Components/types";
 
 const InitialTodo: Array<Todo> = [
-  { text: "Hello world", complete: true },
-  { text: "This is World", complete: false },
+  { text: "Learn Typescript", complete: true },
+  { text: "Learn Redux", complete: false },
 ];
 
 const App: React.FC = () => {

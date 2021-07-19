@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #eef4fc;
+  background-color: #7d7f81;
   color: #555;
 }
 
@@ -21,7 +21,7 @@ button {
 
 }
 .form button {
-  background-color: royalblue;
+  background-color: rgb(87, 91, 104);
   color: #eef4fc;
 }
 .card {
